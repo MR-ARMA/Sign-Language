@@ -1,6 +1,8 @@
 
 # Persian Sign Language Recognition - Real-Time Detection
 
+![Image](./Images/sign-language-readme.jpg)
+
 This project implements a real-time Persian sign language recognition system using computer vision and machine learning. The model is trained to detect specific Persian sign language gestures and recognizes them from a live video feed. This implementation leverages `MediaPipe` for body and hand pose estimation and TensorFlow's `LSTM` model for sequence classification. 
 
 ## Project Overview
